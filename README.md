@@ -7,7 +7,8 @@ I'm Kimsu, Backend developer from Korea.
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-blueviolet?style=flat&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-success?style=flat&logo=MySQL&logoColor=white)
-
+![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)
 <!--
 **Kimsu10/Kimsu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
