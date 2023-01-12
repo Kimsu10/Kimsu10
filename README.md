@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there~👋 Welcome my page.
+I'm Kimsu, Backend developer from Korea.
+
+## My stack
+<img alt ="Html" src="https://img.shields.io/badge/-Html-%23E34F26?style=plastic&logo=HTML5?logoColor=#E34F26">
 
 <!--
 **Kimsu10/Kimsu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
