@@ -2,7 +2,7 @@
 I'm Kimsu, Backend developer from Korea.
 
 ## My stack
-![](https://img.shields.io/badge/-Html5-%23E34F26)?style=?style=flat&logo=HTML5?logoColor=#E34F26")
+![](https://img.shields.io/badge/-Html5-%23E34F26?style=flat&logo=HTML5?logoColor=#E34F26")
 
 <!--
 **Kimsu10/Kimsu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
