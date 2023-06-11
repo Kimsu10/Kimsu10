@@ -4,7 +4,10 @@ I'm Kimsu, Backend developer from Korea.
 - Blog: <https://kimsu10.github.io>
 - email: betnwjd25@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange)
+<a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+
+
+
 
 
 ## My stack is..
@@ -34,4 +37,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange)
 -->
