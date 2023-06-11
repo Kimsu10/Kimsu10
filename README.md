@@ -4,7 +4,7 @@ I'm Kimsu, Backend developer from Korea.
 - Blog: <https://kimsu10.github.io>
 - email: betnwjd25@gmail.com
 
-<a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Kimsu's github stats" /></a>
 
 
 
