@@ -23,7 +23,7 @@ I'm Kimsu, Backend developer from Korea.
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/-NestJs-E0234E?style=flat&logo=GitHub&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=compact dark&theme=dark)
+
 
 <!--
 **Kimsu10/Kimsu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
