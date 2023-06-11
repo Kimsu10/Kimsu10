@@ -4,7 +4,7 @@ I'm Kimsu, Backend developer from Korea.
 - Blog: <https://kimsu10.github.io>
 - email: betnwjd25@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange)
 
 
 ## My stack is..
