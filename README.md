@@ -7,7 +7,7 @@ I'm Kimsu, Backend developer from Korea.
 </br>
 
 <a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange"></a>
-<a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=compact&theme=nord" /></a> 
 
 </br>
 
@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange)
+<a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange"></a>
+<a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=compact&theme=nord&hide_border=true" /></a> 
 -->
