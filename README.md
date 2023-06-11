@@ -9,7 +9,7 @@ I'm Kimsu, Backend developer from Korea.
 ![](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/-NodeJs-blueviolet?style=flat&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-MySQL-success?style=flat&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)
