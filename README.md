@@ -4,6 +4,9 @@ I'm Kimsu, Backend developer from Korea.
 - Blog: <https://kimsu10.github.io>
 - email: betnwjd25@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=radical)
+
+
 ## My stack is..
 ![](https://img.shields.io/badge/-Html5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
@@ -16,7 +19,6 @@ I'm Kimsu, Backend developer from Korea.
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/-NestJs-E0234E?style=flat&logo=GitHub&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=radical)
 
 <!--
 **Kimsu10/Kimsu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
