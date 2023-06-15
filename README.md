@@ -22,6 +22,7 @@ I'm Kimsu, Backend developer from Korea.
 
 ![](https://img.shields.io/badge/-Html5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/-React-#61DAFB?style=flat&logo=CSS3&logoColor=white)
 
 ### Tools
 ![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
