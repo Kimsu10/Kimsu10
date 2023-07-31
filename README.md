@@ -1,7 +1,7 @@
 ## Hi there~👋 Welcome my page.
 I'm Kimsu, Backend developer from Korea.
 
-- Blog: <https://kimsu10.github.io>
+- Blog: <https://gerede.tistory.com/>
 - email: betnwjd25@gmail.com
 
 </br>
