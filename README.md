@@ -2,8 +2,6 @@
 I'm Kimsu, Backend developer from Korea.
 <br/>
 안녕하세요 저는 백엔드 개발자입니다.
-<br/>
-현재는 프론트엔드개발자분들은 어떻게 데이터를 받고 사용하는지 궁금해서 프론트엔드 공부를 진행하고있습니다.
 
 - Blog: <https://gerede.tistory.com/>
 - email: betnwjd25@gmail.com
