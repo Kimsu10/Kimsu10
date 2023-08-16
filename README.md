@@ -8,8 +8,7 @@ I'm Kimsu, Backend developer from Korea.
 
 </br>
 
-
-<a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://vercel.com/kimsu10/github-readme-stats#:~:text=github%2Dreadme%2Dstats%2Dkimsu10.vercel.app&show_icons=true&theme=slateorange&hide_border=true"></a>
+![Kimsu's GitHub stats](https://vercel.com/kimsu10/github-readme-stats#:~:text=github%2Dreadme%2Dstats%2Dkimsu10.vercel.app)
 <a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=compact&theme=slateorange&hide_border=true" /></a> 
 
 
