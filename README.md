@@ -12,9 +12,6 @@ I'm Kimsu, Backend developer from Korea.
 
 <a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats-git-master-kimsu10.vercel.app/api/top-langs/?username=Kimsu10&layout=compact&theme=slateorange&hide_border=true" /></a> 
 
-<a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=compact&theme=slateorange&hide_border=true" /></a> 
-
-
 ## My stack is..
 
 
