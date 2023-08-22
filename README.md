@@ -31,8 +31,9 @@ I'm Kimsu, Backend developer from Korea.
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&langs_count=8&theme=radical&layout=pie)
 ![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true") 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&langs_count=8&theme=radical&layout=pie)
+
 
 
 
