@@ -29,6 +29,7 @@ I'm Kimsu, Backend developer from Korea.
 ![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)
 
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&langs_count=8&theme=radical&layout=pie)
 ![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true") 
@@ -56,5 +57,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats-git-master-kimsu10.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true"></a>
-
+Views
+<a href="https://www.youtube.com/watch?v=ZxZ1I1yTCUI&ab_channel=Joshwin"> 
+<img src="https://profile-counter.glitch.me/Kimsu10/count.svg" alt="Kimsu10" />
+</a>
 <a href="https://github.com/Kimsu10"><img align="center" style="height:180px" src="https://github-readme-stats-git-master-kimsu10.vercel.app/api/top-langs/?username=Kimsu10&layout=compact&theme=slateorange&hide_border=true" /></a> 
