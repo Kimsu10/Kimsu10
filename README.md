@@ -8,12 +8,6 @@ I'm Kimsu, Backend developer from Korea.
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&langs_count=8&theme=radical&layout=pie)]
-![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true") 
-
-
-
-
 ## My stack is..
 
 
@@ -34,6 +28,14 @@ I'm Kimsu, Backend developer from Korea.
 ### Tools
 ![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&langs_count=8&theme=radical&layout=pie)
+![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true") 
+
+
+
+
 
 
 
