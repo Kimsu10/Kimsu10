@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### Kimsu
+  # Kimsu
  
  <a href="https://gerede.tistory.com"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kims10"/></a>
 
