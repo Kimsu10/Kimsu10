@@ -4,7 +4,7 @@
   
   # Kimsu
  
- <a href="https://gerede.tistory.com"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kims10"/></a>
+ <a href="https://solved.ac/kims10"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kims10"/></a>
 [![wakatime](https://wakatime.com/badge/user/4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63.svg)](https://wakatime.com/@4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63)
 
 ## Hi there~👋 Welcome my page.
@@ -25,7 +25,7 @@ I'm Kimsu, Backend developer from Korea.
 
 </div>
 
-## My stack is..
+## 📚 My stack is..
 
 
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
@@ -42,7 +42,7 @@ I'm Kimsu, Backend developer from Korea.
 ![](https://img.shields.io/badge/-amazons3-569A31?style=flat&logo=amazons3&logoColor=white)
 
 
-### Tools
+### 🔧 Tools
 ![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)
 
@@ -55,13 +55,11 @@ I'm Kimsu, Backend developer from Korea.
 [![Solved.ac
 ](http://mazassumnida.wtf/api/v2/generate_badge?boj=kims10)](https://solved.ac/kims10)<br />
 
-
 </div>
 
 <div align="right">
   
 ![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&rank_icon=github&theme=slateorange&hide_border=true") 
- 
  
 </div>
   
