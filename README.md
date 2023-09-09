@@ -5,13 +5,14 @@
   # Kimsu
  
  <a href="https://gerede.tistory.com"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kims10"/></a>
+[![wakatime](https://wakatime.com/badge/user/4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63.svg)](https://wakatime.com/@4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63)
 
 ## Hi there~👋 Welcome my page.
 I'm Kimsu, Backend developer from Korea.
 <br/>
 안녕하세요 저는 백엔드 개발자입니다.
 
-  <img align="center" height="60" src="https://64.media.tumblr.com/6a004610b49fc88e39955634f014f52b/05d68f1f5a0c4f1d-e5/s400x600/ced28f2eb16a5c187a063bc0a78441e495d3c0e1.gifv">
+  <img align="center" height="60" src="https://64.media.tumblr.com/6a004610b49fc88e39955634f014f52b/05d68f1f5a0c4f1d-e5/s400x600/ced28f2eb16a5c187a063bc0a78441e495d3c0e1.gifv">  currently, I'm studying the frontend because I want to send better data.
 
 📝 Blog: <https://gerede.tistory.com>
 <br />
@@ -53,6 +54,7 @@ I'm Kimsu, Backend developer from Korea.
   
 [![Solved.ac
 ](http://mazassumnida.wtf/api/v2/generate_badge?boj=kims10)](https://solved.ac/kims10)<br />
+
 
 </div>
 
