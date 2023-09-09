@@ -31,8 +31,8 @@ I'm Kimsu, Backend developer from Korea.
 
 <br>
 
-![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true") 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&langs_count=8&theme=radical&layout=pie)
+![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&rank_icon=github&theme=slateorange&hide_border=true") 
+![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=donut&langs_count=5&theme=gruvbox)
 
 
 
@@ -44,6 +44,11 @@ I'm Kimsu, Backend developer from Korea.
 
 <!--
 **Kimsu10/Kimsu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true") 
+![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&amp;layout=donut&amp;langs_count=7&amp;theme=tokyonight)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+
 
 Here are some ideas to get you started:
 
