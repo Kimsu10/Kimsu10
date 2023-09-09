@@ -1,12 +1,28 @@
+---
+
+<div align="center">
+  
+  ### Kimsu
+ 
+ <a href="https://gerede.tistory.com"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kims10"/></a>
+
 ## Hi there~👋 Welcome my page.
 I'm Kimsu, Backend developer from Korea.
 <br/>
 안녕하세요 저는 백엔드 개발자입니다.
 
-- Blog: <https://gerede.tistory.com/>
-- email: betnwjd25@gmail.com
+  <img align="center" height="60" src="https://64.media.tumblr.com/6a004610b49fc88e39955634f014f52b/05d68f1f5a0c4f1d-e5/s400x600/ced28f2eb16a5c187a063bc0a78441e495d3c0e1.gifv">
 
-</br>
+📝 Blog: <https://gerede.tistory.com>
+<br />
+📨 Email: betnwjd25@gmail.com
+
+ ---
+
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=donut&langs_count=5&theme=gruvbox"/>
+
+
+</div>
 
 ## My stack is..
 
@@ -31,13 +47,23 @@ I'm Kimsu, Backend developer from Korea.
 
 <br>
 
+
+
+<div align="left">
+  
+[![Solved.ac
+](http://mazassumnida.wtf/api/v2/generate_badge?boj=kims10)](https://solved.ac/kims10)<br />
+
+</div>
+
+<div align="right">
+  
 ![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&rank_icon=github&theme=slateorange&hide_border=true") 
-![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=donut&langs_count=5&theme=gruvbox)
-
-
-
-
-
+ 
+ 
+</div>
+  
+ ---
 
 
 
@@ -47,8 +73,14 @@ I'm Kimsu, Backend developer from Korea.
 
 ![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true") 
 ![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&amp;layout=donut&amp;langs_count=7&amp;theme=tokyonight)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
 
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
+ 
+<div align="left">
+
+ <img align="center" width="80" src="https://i.pinimg.com/originals/4a/c8/09/4ac8098549e7eb268f67f650321210c3.gif">
+
+ 
 
 Here are some ideas to get you started:
 
