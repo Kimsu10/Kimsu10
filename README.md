@@ -7,8 +7,7 @@
  <a href="https://solved.ac/kims10"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kims10"/></a>
 [![wakatime](https://wakatime.com/badge/user/4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63.svg)](https://wakatime.com/@4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63)
 
-## Hi there~👋 Welcome my page.
-I'm Kimsu, Backend developer from Korea.
+## 👋 Hi!  I'm Backend developer from Korea.
 <br/>
 안녕하세요 저는 백엔드 개발자입니다.
 
