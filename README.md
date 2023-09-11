@@ -13,9 +13,13 @@
 
   <img align="center" height="60" src="https://64.media.tumblr.com/6a004610b49fc88e39955634f014f52b/05d68f1f5a0c4f1d-e5/s400x600/ced28f2eb16a5c187a063bc0a78441e495d3c0e1.gifv">  currently, I'm studying the frontend because I want to send better data.
 
-📝 Blog: <https://gerede.tistory.com>
-<br />
-📨 Email: betnwjd25@gmail.com
+<div align: center">
+
+&nbsp;My Blog &nbsp;  &nbsp; My Email
+<br/>
+<a href="https://gerede.tistory.com"> <img src="https://img.shields.io/badge/-tistory-FF9A00?style=flat&logo=tistory&logoColor=white&link=https://gerede.tistory.com" height="28" alt="Tistory Badge" /> </a> <img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=betnwjd25@gmail.com" height="28" /></a>
+
+</div>
 
  ---
 
@@ -37,15 +41,23 @@
 ![](https://img.shields.io/badge/-Html5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-![]("https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=fff")
-![]("https://img.shields.io/badge/styledcomponent-DB7093?flat&logo=styled-components&logoColor=white")
+![](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=fff)
+![](https://img.shields.io/badge/styledcomponent-DB7093?flat&logo=styled-components&logoColor=white)
 
 ![](https://img.shields.io/badge/-amazons3-569A31?style=flat&logo=amazons3&logoColor=white)
-
-
-### 🔧 Tools
 ![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)
+
+### 🔧 Tools
+
+![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![](https://img.shields.io/badge/-postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/-gitbook-3884FF?style=flat&logo=gitbook&logoColor=white)
+![](https://img.shields.io/badge/bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+
+
 
 <br>
 
