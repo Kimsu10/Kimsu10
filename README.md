@@ -12,9 +12,6 @@
 <img src="https://media2.giphy.com/media/fWtJrVD5I2WIJRmfAw/giphy.gif?cid=ecf05e47vpcuud5vj2hsfg6byui8objlpsrie5n6j7w127nr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
-<br/>
-
-
 <div align: center">
 
 &nbsp;My Blog &nbsp;  &nbsp; My Email
@@ -82,8 +79,12 @@
 
 <!--
 **Kimsu10/Kimsu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+달리기
  <img align="center" height="60" src="https://64.media.tumblr.com/6a004610b49fc88e39955634f014f52b/05d68f1f5a0c4f1d-e5/s400x600/ced28f2eb16a5c187a063bc0a78441e495d3c0e1.gifv">  currently, I'm studying the frontend because I want to send better data.
+
+미코
+<br/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1811020040248203734/C152DC4597B85BE699D7482384A5D0238B2A9F06/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 Here are some ideas to get you started:
 
