@@ -7,6 +7,8 @@
  <a href="https://solved.ac/kims10"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kims10"/></a>
 [![wakatime](https://wakatime.com/badge/user/4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63.svg)](https://wakatime.com/@4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63)
 
+
+
 ## 👋 Hi!  I'm Backend developer from Korea.
 <br/>
 안녕하세요 저는 백엔드 개발자입니다.
@@ -84,16 +86,7 @@
 <!--
 **Kimsu10/Kimsu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsu10&show_icons=true&theme=slateorange&hide_border=true") 
-![Kimsu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&amp;layout=donut&amp;langs_count=7&amp;theme=tokyonight)
-
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
- 
-<div align="left">
-
- <img align="center" width="80" src="https://i.pinimg.com/originals/4a/c8/09/4ac8098549e7eb268f67f650321210c3.gif">
-
- 
+<img src="https://media2.giphy.com/media/fWtJrVD5I2WIJRmfAw/giphy.gif?cid=ecf05e47vpcuud5vj2hsfg6byui8objlpsrie5n6j7w127nr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 Here are some ideas to get you started:
 
