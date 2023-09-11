@@ -37,6 +37,8 @@
 ![](https://img.shields.io/badge/-Html5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+![]("https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=fff")
+![]("https://img.shields.io/badge/styledcomponent-DB7093?flat&logo=styled-components&logoColor=white")
 
 ![](https://img.shields.io/badge/-amazons3-569A31?style=flat&logo=amazons3&logoColor=white)
 
