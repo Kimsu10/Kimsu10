@@ -14,9 +14,9 @@
 
 <div align: center">
 
-&nbsp;My Blog &nbsp;  &nbsp; My Email
-<br/>
-<a href="https://gerede.tistory.com"> <img src="https://img.shields.io/badge/-tistory-FF9A00?style=flat&logo=tistory&logoColor=white&link=https://gerede.tistory.com" height="28" alt="Tistory Badge" /> </a> <img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=betnwjd25@gmail.com" height="28" /></a>
+|My Blog | My Email |
+|:---:|:---:|
+|<a href="https://gerede.tistory.com"> <img src="https://img.shields.io/badge/-tistory-FF9A00?style=flat&logo=tistory&logoColor=white&link=https://gerede.tistory.com" height="28" alt="Tistory Badge" /> </a>|<img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=betnwjd25@gmail.com" height="28" /></a>|
 
 </div>
 
@@ -85,6 +85,11 @@
 미코
 <br/>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1811020040248203734/C152DC4597B85BE699D7482384A5D0238B2A9F06/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
+&nbsp;My Blog &nbsp;  &nbsp; My Email
+<br/>
+<a href="https://gerede.tistory.com"> <img src="https://img.shields.io/badge/-tistory-FF9A00?style=flat&logo=tistory&logoColor=white&link=https://gerede.tistory.com" height="28" alt="Tistory Badge" /> </a> <img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=betnwjd25@gmail.com" height="28" /></a>
+
 
 Here are some ideas to get you started:
 
