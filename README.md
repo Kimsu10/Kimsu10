@@ -22,7 +22,7 @@
 
  ---
 
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&layout=donut&langs_count=5&theme=gruvbox"/>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsu10&langs_count=10&layout=compact&theme=gruvbox"/>
 
 
 </div>
