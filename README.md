@@ -7,7 +7,7 @@
  <a href="https://solved.ac/kims10"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kims10"/></a>
 [![wakatime](https://wakatime.com/badge/user/4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63.svg)](https://wakatime.com/@4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63)
 
- ## 👋 Hi!  I'm Backend developer from Korea.
+ ## 👋 Hi!  I'mdeveloper from Korea.
 
 <img src="https://media2.giphy.com/media/fWtJrVD5I2WIJRmfAw/giphy.gif?cid=ecf05e47vpcuud5vj2hsfg6byui8objlpsrie5n6j7w127nr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
