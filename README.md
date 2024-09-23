@@ -78,10 +78,7 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kims10" alt="Solved.ac 프로필" />
       </a>
     </td>
-    <td>
-      <h1>넣을거</h1>
-      <p>고민중</p>
-    </td>
+
   </tr>
 </table>
 
