@@ -52,9 +52,9 @@
 ![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-<!--![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat=kubernetes&logoColor=white)-->
 ![](https://img.shields.io/badge/Jenkins-D24939?style=flat=Jenkins&logoColor=white)
 ![](https://img.shields.io/badge/NCP-1E8E3E?style=flat&logo=Naver&logoColor=white)
+<!--![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat=kubernetes&logoColor=white)-->
 
 <b>[COLLABORATION TOOLS]</b>
 <br/>
