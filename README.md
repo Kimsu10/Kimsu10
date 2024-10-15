@@ -70,7 +70,7 @@
 
 
 
-<br/><br/>
+<br/>
 
 <table style="border: none;">
   <tr>
