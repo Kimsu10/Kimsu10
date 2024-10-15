@@ -52,7 +52,7 @@
 ![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat=kubernetes&logoColor=white)
+<!--![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat=kubernetes&logoColor=white)-->
 ![](https://img.shields.io/badge/Jenkins-D24939?style=flat=Jenkins&logoColor=white)
 ![](https://img.shields.io/badge/NCP-1E8E3E?style=flat&logo=Naver&logoColor=white)
 
@@ -71,14 +71,14 @@
 
 <table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=Kimsu10&rank_icon=github&theme=slateorange&hide_border=true" alt="Kimsu's GitHub stats" />
-      <br />
+    </td>
+    <td style="border: none; padding: 0;">
       <a href="https://solved.ac/kims10" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kims10" alt="Solved.ac 프로필" />
       </a>
     </td>
-
   </tr>
 </table>
 
