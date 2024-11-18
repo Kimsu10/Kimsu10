@@ -7,9 +7,19 @@
  <a href="https://solved.ac/kims10"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kims10"/></a>
 [![wakatime](https://wakatime.com/badge/user/4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63.svg)](https://wakatime.com/@4c81871e-e1fa-4adb-b02e-cf6d0a0a5a63)
 
-<h1 align="center">
+<h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi,+I'm+web+developer!;+I+want+to+create+fun+things;+in+the+web+world+through;+CODING!!!!!!"; />
-</h1>
+</h3>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Kimsu10"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <!--
 <img src="https://media2.giphy.com/media/fWtJrVD5I2WIJRmfAw/giphy.gif?cid=ecf05e47vpcuud5vj2hsfg6byui8objlpsrie5n6j7w127nr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
