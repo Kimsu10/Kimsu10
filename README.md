@@ -12,13 +12,15 @@
 </h3>
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/Kimsu10"
+    src="https://render.gitanimals.org/lines/Kimsu10?pet-id=646307734079395968"
     width="600"
     height="120"
   />
 </a>
+  
   
 
 <!--
