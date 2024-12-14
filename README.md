@@ -45,40 +45,44 @@
 
 ## 📚 My stack is
 
-<b>[BACKEND]</b>
-<br/>
-![](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/-NodeJs-339933?style=flat&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+### [BACKEND]
 
-<b>[FRONTEND]</b>
+<b>Language</b> : ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) <br/>
+<b>Frameworks</b> : ![](https://img.shields.io/badge/-NodeJs-339933?style=flat&logo=Node.js&logoColor=white)
+ ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) <br/>
+<b>Databases</b> : ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)<br/>
+<b>ORM</b> : ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white) 
+![TypeORM](https://img.shields.io/badge/typeorm-FE0803?style=flat&logo=hibernate&logoColor=white) <br/>
+<b>DEPLOY</b> : ![](https://img.shields.io/badge/-GitWebhooks-black?style=flat&logo=GitHub&logoColor=white) 
+![](https://img.shields.io/badge/Jenkins-D24939?style=flat=Jenkins&logoColor=white) 
+![](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![](https://img.shields.io/badge/-amazons3-569A31?style=flat&logo=amazons3&logoColor=white) 
+![](https://img.shields.io/badge/NCP-1E8E3E?style=flat&logo=Naver&logoColor=white) <br/>
+<b>Security</b> : ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat&logo=oauth&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-FF4500?style=flat&logo=security&logoColor=white) <br/>
+<b>Logging </b> : ![Log4j](https://img.shields.io/badge/Log4j-FF4500?style=flat&logo=apache&logoColor=white)  <br/>
+<b>Utilites</b> : ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=flat-square&logo=json-web-tokens&logoColor=white) ![Mail](https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white) <br/>
 <br/>
-![](https://img.shields.io/badge/-Html5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=fff)
-![](https://img.shields.io/badge/styledcomponent-DB7093?flat&logo=styled-components&logoColor=white)
 
-<b>[DEVOPS]</b>
+### [FRONTEND]
+
+<!-- ![](https://img.shields.io/badge/-Html5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
+-->
+<b>Framework</b> : ![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) <br/>
+<b>Styling Tools</b> : ![](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)  ![](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=fff) ![](https://img.shields.io/badge/styledcomponent-DB7093?flat&logo=styled-components&logoColor=white)
 <br/>
-![](https://img.shields.io/badge/-amazons3-569A31?style=flat&logo=amazons3&logoColor=white)
-![](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)
-![](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Jenkins-D24939?style=flat=Jenkins&logoColor=white)
-![](https://img.shields.io/badge/NCP-1E8E3E?style=flat&logo=Naver&logoColor=white)
+<b>Utilites</b> : ![](https://img.shields.io/badge/redux-764ABC?flat&logo=redux&logoColor=white)
+
+
 <!--![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat=kubernetes&logoColor=white)-->
 
-<b>[COLLABORATION TOOLS]</b>
-<br/>
+<!-- <b>[COLLABORATION TOOLS]</b>
 ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![](https://img.shields.io/badge/-postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/-gitbook-3884FF?style=flat&logo=gitbook&logoColor=white)
-![](https://img.shields.io/badge/bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white) -->
 
 
 
