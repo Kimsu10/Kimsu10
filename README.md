@@ -48,7 +48,7 @@
 ### [BACKEND]
 
 <b>Language</b> : ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) <br/>
-<b>Frameworks</b> : ![](https://img.shields.io/badge/-NodeJs-339933?style=flat&logo=Node.js&logoColor=white)
+<b>Frameworks</b> : ![](https://img.shields.io/badge/-express-000000?style=flat&logo=express&logoColor=white)
  ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) <br/>
 <b>Databases</b> : ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)<br/>
 <b>ORM</b> : ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white) 
