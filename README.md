@@ -32,7 +32,7 @@
 
 |My Blog | My Email |
 |:---:|:---:|
-|<a href="https://gerede.tistory.com"> <img src="https://img.shields.io/badge/-tistory-FF9A00?style=flat&logo=tistory&logoColor=white&link=https://gerede.tistory.com" height="28" alt="Tistory Badge" /> </a>|<img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=betnwjd25@gmail.com" height="28" /></a>|
+|<a href="https://gerede.tistory.com"> <img src="https://img.shields.io/badge/-tistory-FF9A00?style=flat&logo=tistory&logoColor=white&link=https://kimsu10.github.io/" height="28" alt="Tistory Badge" /> </a>|<img src="https://img.shields.io/badge/-gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=betnwjd25@gmail.com" height="28" /></a>|
 
 </div>
 
